@@ -1,0 +1,12 @@
+global:
+  ede:
+    key: ""
+  client_config:
+    type: ""
+    access_key_id: ""
+    access_key_secret: ""
+    role_arn: ""
+    role_session_name: ""
+    role_name: ""
+    security_token: ""
+
